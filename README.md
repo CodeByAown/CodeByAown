@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aown Abbas</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<img align="right" src="robot.gif" alt="aman-sharma-697454234" height="150" width="300" />
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="72">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyaown&label=Profile%20views&color=0e75b6&style=flat" alt="codebyaown" /> </p>
 
